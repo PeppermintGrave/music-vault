@@ -34,7 +34,7 @@ peppermintgrave-music-vault/
 │   ├── Static Skies.mp3
 │   └── Mosslight Drift.mp3
 └── images/
-    └── peppermint_icon.png
+    └── icon.png
 ```
 
 ## Run locally
